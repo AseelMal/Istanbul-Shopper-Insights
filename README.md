@@ -1,5 +1,5 @@
 # Istanbul-Shopper-Insights
-In this project, I analyzed data containing shopping information from 10 different shopping malls in Istanbul between 2021 and 2023. I cleaned the data, developed DAX equations, visualizations,and created an interactive dashboard.
+In this project, I analyzed data containing shopping information from 10 different shopping malls in Istanbul between 2021 and 2023. I cleaned the data, developed DAX equations, visualizations,and created an interactive dashboard using Power BI.
 
 A screenshot  of the Dashboard:
 
