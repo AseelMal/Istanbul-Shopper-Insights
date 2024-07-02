@@ -1,5 +1,5 @@
 # Istanbul Shopper Insights
-This project analyzes shopping data from 10 different malls in Istanbul between 2021 and 2023, providing insights into shopper behavior, sales trends, and payment methods. Using PowerBI, I created an interactive dashboard to visualize these insights.
+This project analyzes shopping data from 10 different malls in Istanbul between 2021 and 2023, providing insights into shopper behavior, sales trends, and payment methods. Using PowerBI, I cleaned the data, created DAX equations, and created an interactive dashboard to visualize these insights.
 
 📌 Key Features
 
